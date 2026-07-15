@@ -1,0 +1,12 @@
+.DS_Store
+.swiftpm/
+.swiftpm/*
+/*.xcodeproj
+/.build
+/build
+/Packages
+xcuserdata/
+
+docs/
+
+.claude/settings.local.json
